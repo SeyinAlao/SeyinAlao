@@ -2,7 +2,7 @@
 - 👀 I’m interested in Playing games and coding 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on a project 
-- 📫 How to reach me seyinalao@gmail.com
+- 📫 How to reach me Seyin231@proton.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
