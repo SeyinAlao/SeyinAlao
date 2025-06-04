@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeyinAlao
 - 👀 I’m interested in Playing games and coding 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me Seyin231@proton.me
 - 😄 Pronouns: ...
