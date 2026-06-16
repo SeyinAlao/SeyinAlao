@@ -111,7 +111,7 @@ Personal portfolio — the live version is at [portfolio-three-mocha-sh0pemwljn.
 
 ## Currently
 
-- 🎓 Final year, Software Engineering — Babcock University, Ilishan-Remo
+- 🎓 Final year, Software Engineering Babcock University, Ilishan-Remo
 - 🔨 Actively shipping **Scope** (job intelligence dashboard)
 - 🎻 Violin when the screen needs a break
 
@@ -131,6 +131,6 @@ Personal portfolio — the live version is at [portfolio-three-mocha-sh0pemwljn.
 
 <div align="center">
 
-*Open to frontend roles and interesting collaborations — reach out.*
+*Open to frontend roles and interesting collaborations reach out.*
 
 </div>
