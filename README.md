@@ -13,7 +13,7 @@
 
 ---
 
-Frontend developer based in Lagos, Nigeria. Final year, Software Engineering at Babcock University.
+Frontend developer based in Lagos, Nigeria. Software Engineering Student at Babcock University.
 Building clean, component-driven UIs — good architecture, readable code, interfaces that don't need an explanation.
 
 Currently shipping **[Scope](https://github.com/SeyinAlao/scope)** — a job intelligence dashboard powered by the JSearch API.
