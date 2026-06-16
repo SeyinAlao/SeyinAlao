@@ -6,9 +6,10 @@
 
 *Building interfaces that are fast, intentional, and actually pleasant to use.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seyinalao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyinalao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-mocha-sh0pemwljn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeyinAlao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyinalao)
+[![X](https://img.shields.io/badge/X-@seyinalao-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/seyinalao)
 [![Email](https://img.shields.io/badge/ProtonMail-seyin231%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:seyin231@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -27,62 +28,92 @@ Currently working on **Scope** — a job intelligence dashboard powered by the J
 ## Tech Stack
 
 ### Core
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### State & Data
 ![Zustand](https://img.shields.io/badge/Zustand-1a1a1a?style=flat-square&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-### Styling & UI
+### Styling & Motion
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### Tooling
+### Tooling & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-### Also comfortable with
+### Also in the toolkit
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ---
 
 ## Projects
 
-### [Scope](https://github.com/seyinalao/scope) — Job Intelligence Dashboard
+### [Scope](https://github.com/SeyinAlao/scope) — Job Intelligence Dashboard
 > React · TypeScript · TanStack Query · Zustand · Clerk · JSearch API
 
-A job search dashboard with real-time listings, filters, and authentication. Built with a clean data-fetching layer and persistent state across sessions.
+A job search dashboard with real-time listings, smart filters, and authentication. Clean data-fetching layer, persistent state across sessions, and a UI that doesn't get in the way.
 
 ---
 
-### [QueryCraft](https://github.com/seyinalao/querycraft) — Visual Query Builder
+### [QueryCraft](https://github.com/SeyinAlao/QueryCraft) — Visual Query Builder
 > Next.js 14 · TypeScript · Zustand · DnD Kit · Framer Motion · Vitest
 
-A drag-and-drop interface for building structured queries visually — recursive query tree, multiple query generators, and a 98-test suite. Technically the most challenging thing I've shipped.
+Drag-and-drop interface for building structured queries visually. Recursive query tree, multiple query generators, 98-test suite. The most technically complex thing I've shipped.
 
 ---
 
-### Student Industrial Training Website
-> HTML · CSS · JavaScript
+### [Fridgewise](https://github.com/SeyinAlao/Fridgewise) — AI Meal Orchestration
+> TypeScript · AI Integration
 
-One of my earlier builds that I'm still proud of — a clean informational site that pushed me to take layout and UX more seriously.
+Inventories your fridge and generates recipes with real-time NGN/USD currency conversion. Practical AI applied to an everyday problem.
+
+---
+
+### [Whisperbox](https://github.com/SeyinAlao/Whisperbox-messaging) — Secure Messaging
+> TypeScript · End-to-End Encryption
+
+A messaging application built around E2EE. Security-first architecture from the ground up.
+
+---
+
+### [Market Intelligence Dashboard](https://github.com/SeyinAlao/Market-Intelligent-Dashboard)
+> TypeScript · Yahoo Finance API via RapidAPI
+
+Real-time market data dashboard. Pulls live financial data and presents it cleanly for decision-making.
+
+---
+
+### [AI Finance Advisor](https://github.com/SeyinAlao/AI-Finance-Advisor-)
+> TypeScript · AI
+
+Advice engine for financial decisions and questions. Combines structured prompting with a clean response UI.
+
+---
+
+### [Portfolio](https://github.com/SeyinAlao/Portfolio)
+> Svelte · TypeScript
+
+Personal portfolio — the live version is at [portfolio-three-mocha-sh0pemwljn.vercel.app](https://portfolio-three-mocha-sh0pemwljn.vercel.app/). Built in Svelte for the challenge of it.
 
 ---
 
 ## Currently
 
-- 🎓 Final year, Software Engineering — Babcock University
-- 🔨 Actively building **Scope** (job intelligence dashboard)
-- 📖 Deepening my understanding of React performance patterns and TypeScript generics
-- 🎻 Playing the violin when I need a break from the screen
+- 🎓 Final year, Software Engineering — Babcock University, Ilishan-Remo
+- 🔨 Actively shipping **Scope** (job intelligence dashboard)
+- 🎻 Violin when the screen needs a break
 
 ---
 
@@ -90,9 +121,9 @@ One of my earlier builds that I'm still proud of — a clean informational site 
 
 <div align="center">
 
-![Seyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyinalao&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Seyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeyinAlao&show_icons=true&theme=default&hide_border=true&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyinalao&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyinAlao&layout=compact&hide_border=true&theme=default)
 
 </div>
 
@@ -100,6 +131,6 @@ One of my earlier builds that I'm still proud of — a clean informational site 
 
 <div align="center">
 
-*Open to frontend roles and interesting collaborations. Reach out.*
+*Open to frontend roles and interesting collaborations — reach out.*
 
 </div>
