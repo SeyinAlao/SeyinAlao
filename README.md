@@ -2,7 +2,7 @@
 
 # Seyin Alao
 
-**Frontend Developer · Final-Year Software Engineering Student**
+**Frontend Developer · Software Engineering Student**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-mocha-sh0pemwljn.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeyinAlao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyinalao)
@@ -15,8 +15,8 @@
 
 ---
 
-Frontend developer based in Lagos, Nigeria. Final year, Software Engineering at Babcock University.
-Building clean, component-driven UIs — good architecture, readable code, interfaces that don't need an explanation.
+Frontend developer based in Lagos, Nigeria. Software Engineering Student at Babcock University.
+Building clean, component-driven UIs good architecture, readable code, interfaces that don't need an explanation.
 
 Currently shipping **[Scope](https://github.com/SeyinAlao/scope)** — a job intelligence dashboard powered by the JSearch API.
 
@@ -62,6 +62,6 @@ Currently shipping **[Scope](https://github.com/SeyinAlao/scope)** — a job int
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SeyinAlao&theme=default&hide_border=true)
 
-*Open to frontend roles and interesting collaborations — reach out.*
+*Open to frontend roles and interesting collaborations reach out.*
 
 </div>
