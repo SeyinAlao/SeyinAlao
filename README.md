@@ -2,7 +2,7 @@
 
 # Seyin Alao
 
-**Frontend Developer · Software Engineering Student**
+**Frontend Engineer · Software Engineering Student**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-mocha-sh0pemwljn.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeyinAlao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyinalao)
